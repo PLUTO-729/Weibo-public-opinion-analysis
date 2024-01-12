@@ -1,1 +1,1 @@
-![image](https://github.com/PLUTO-729/Weibo-public-opinion-analysis/F3689A52FBF44DC8968EE4D88A348D48.png)
+![image]([https://github.com/PLUTO-729/Weibo-public-opinion-analysis/F3689A52FBF44DC8968EE4D88A348D48.png](https://github.com/PLUTO-729/Weibo-public-opinion-analysis/blob/main/F3689A52FBF44DC8968EE4D88A348D48.png)https://github.com/PLUTO-729/Weibo-public-opinion-analysis/blob/main/F3689A52FBF44DC8968EE4D88A348D48.png)
